@@ -30,3 +30,5 @@ uv run generate_thumbnails.py            # scan the whole repo
 uv run generate_thumbnails.py PATH ...   # only the given files/dirs
 uv run generate_thumbnails.py --dry-run  # report changes without writing
 ```
+
+
